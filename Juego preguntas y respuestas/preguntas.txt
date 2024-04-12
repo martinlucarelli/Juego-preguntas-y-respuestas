@@ -1,0 +1,60 @@
+1,Cual es la capital de Kenia?,1,Estocolmo,1,0,2,Oslo,1,0,3,Nairobi,1,1,4,Sucre,1,0
+2,Cual es el metal mas caro del mundo?,1,Oro,2,0,2,Rodio,2,1,3,Platino,2,0,4,Mercurio,2,0
+3,En que anio se independizo Argentina,1,1913,3,0,2,1918,3,0,3,1916,3,1,4,1915,3,0
+4,Cuantos oceanos existen?,1,4,4,0,2,5,4,1,3,6,4,0,4,7,4,0
+5,Entre que anios tuvo lugar la 2da Guerra Mundial?,1,1939 al 1945,5,1,2,1939 al 1944,5,0,3,1937 al 1942,5,0,4,1938 al 1945,5,0
+6,Que filosofo griego es conocido por ser el maestro de Aristoteles?,1,Socrates,6,0,2,Diogenes,6,0,3,Platon,6,1,4,Heraclito,6,0
+7,Cual es el metal mas liviano y abundante en la Tierra?,1,Aluminio,7,1,2,Plata,7,0,3,Zinc,7,0,4,Cobre,7,0
+8,En que anio se firmo la declaracion de independencia de los Estados Unidos?,1,1777,8,0,2,1779,8,0,3,1774,8,0,4,1776,8,1
+9,Cual es el metal mas denso en condiciones normales?,1,Wolframio,9,1,2,Iridio,9,0,3,Osmio,9,0,4,Plomo,9,0
+10,Cual es la montania mas alta de Africa?,1,Monte Everest,10,0,2,Monte Blanco,10,0,3,Monte Kilimanjaro,10,1,4,Monte McKinley,10,0
+11,En que anio se fundo la Organizacion de las Naciones Unidas (ONU)?,1,1945,11,1,2,1956,11,0,3,1959,11,0,4,1948,11,0
+12,En que anio se jugo el primer mundial de futbol?,1,1932,12,0,2,1930,12,1,3,1940,12,0,4,1938,12,0
+13,Cual es el nombre del telescopio espacial lanzado en 1990 y que ha proporcionado impresionantes imagenes del universo?,1,James Webb,13,0,2,Chandra,13,0,3,Spitzer,13,0,4,Hubble,13,1
+14,Quien escribio la famosa novela "1984"?,1,Franz Kafka,14,0,2,Virginia Woolf,14,0,3,George Orwell,14,1,4,Aldous Huxley,14,0
+15,Cual es el proceso quimico mediante el cual las plantas absorben agua y nutrientes del suelo a traves de sus raices?,1,Osmosis,15,1,2,Meiosis,15,0,3,Absorcion,15,0,4,Digestion,15,0
+16,Que es un "firewall"?,1,Una aplicacion de mensajeria,16,0,2,Un dispositivo del hardware,16,0,3,Un software antivirus,16,1,4,Una herramienta de edicion de imagenes,16,0
+17,Cual es la capa mas externa de la Tierra?,1,Litosfera,17,0,2,Manto,17,0,3,Geosfera,17,0,4,Corteza Terrestre,17,1
+18,Cual es el papel de los globulos rojos en el cuerpo humano?,1,Transportar dioxido de carbono desde los tejidos para su eliminacion,18,0,2,Transportar oxigeno desde los pulmones a tejidos y organos,18,1,3,Regular la presion arterial,18,0,4,Producir insulina,18,0
+19,Cual es el proceso de conversion de la leche en productos lacteos como el yogur y el queso?,1,Pasteurizacion,19,0,2,Coagulacion,19,0,3,Fermentacion Lactea,19,1,4,Destilacion,19,0
+20,Que elemento quimico es el mas abundante del universo?,1,Helio,20,0,2,Oxigeno,20,0,3,Hidrogeno,20,1,4,Nitrogeno,20,0
+21,Cual es el proceso mediante el cual la Tierra se calienta debido a la retencion de calor por ciertos gases en la atmosfera?,1,Fotosfera,21,0,2,Sublimacion,21,0,3,Calentamiento global,21,0,4,Efecto invernadero,21,1
+22,Quien fue el autor de la Metamorfosis?,1,George Orwell,22,0,2,Aldous Huxley,22,0,3,Franz Kafka,22,1,4,Virginia Woolf,22,0
+23,Quien fue el primer ser humano en viajar al espacio exterior?,1,Yuri Gagarin,23,1,2,John Glenn,23,0,3,Alan Shepard,23,0,4,Gherman Titov,23,0
+24,Cual es la capital de Australia?,1,Sidney,24,0,2,Canberra,24,1,3,Melbourne,24,0,4,Brisbane,24,0
+25,Que significa "URL" en la web?,1,"Universal Resource Language" (Lenguaje Universal de Recursos),25,0,2,"User Resource Link" (Enlace de Recurso del Usuario),25,0,3,"Uniform Resource Locator" (Localizador Uniforme de Recursos),25,1,4,"Universal Retrieval Link" (Enlace Universal de Recuperacion),25,0
+26,Que es un sistema operativo?,1,Una unidad central de proceso,26,0,2,Una placa madre,26,0,3,Un software que controla al hardware,26,1,4,Una interfaz grafica,26,0
+27,Cual es el proposito de un "router" en una red de computadoras?,1,Conecta la red a internet y dirige el trafico de datos,27,1,2,Almacena datos,27,0,3,Conecta varios dispositivos,27,0,4,Proteje la red de virus,27,0
+28,Que memoria realiza un "almacenamiento mecanico"?,1,Memoria HDD,28,1,2,Memoria SSD,28,0,3,Memoria Flash,28,0,4,Memoria RAM,28,0
+29,Quien fue el primer presidente argentino?,1,Juan Manuel de Rosas,29,0,2,Bartolome Mitre,29,0,3,Bernardino Rivadavia,29,1,4,Justo Jose de Urquiza,29,0
+30,En que anio murio San Martin?,1,1850,30,1,2,1856,30,0,3,1853,30,0,4,1832,30,0
+31,Donde se encuentra la Sagrada Familia?,1,Paris,31,0,2,Barcelona,31,1,3,Madrid,31,0,4,Roma,31,0
+32,Cual es la ciudad de los rascacielos?,1,New York,32,1,2,Miami,32,0,3,Las vegas,32,0,4,Manhattan,32,0
+33,Cual es la moneda de Japon?,1,Won,33,0,2,Yuan,33,0,3,Yen,33,1,4,Yang,33,0
+34,Cuantas piramides se conservan en Egipo,1,54,34,0,2,94,34,0,3,132,34,0,4,118,34,1
+35,Cual fue el album mas vendido de la historia?,1,Back in back,35,0,2,Bat out of hell,35,0,3,Thriller,35,1,4,The dark side of the moon,35,0
+36,En que anio murio Freddie Mercury?,1,1991,36,1,2,1998,36,0,3,1944,36,0,4,1999,36,0
+37,Cuanto duro la guerra de los 100 anios?,1,100 anios,37,0,2,109 anios,37,0,3,114 anios,37,0,4,116 anios,37,1
+38,Como se llama la cria del conejo?,1,Corvato,38,0,2,Gazapo,38,1,3,Caloyo,38,0,4,Alevin,38,0
+39,Cual es el nombre de especie de los seres humanos actuales?,1,Homo Sapiens,39,0,2,Homo Erectus,39,0,3,Homo Habilis,39,0,4,Homo Sapiens Sapiens,39,1
+40,Que metal se encuentra en el centro de la Tierra?,1,Oro,40,0,2,Cobre,40,0,3,Hierro,40,1,4,Plata,40,0
+41,Cual es la galaxia mas cercana a la Via Lactea?,1,Andromeda,41,1,2,Centaurus,41,0,3,Osa Mayor,41,0,4,Cetus,41,0
+42,En que parte del cuerpo se produce la insulina?,1,Higado,42,0,2,Intestino delgado,42,0,3,Pancreas,42,1,4,Estomago,42,0
+43,Que es un Geco?,1,Un reptil,43,1,2,Un insecto,43,0,3,Un ave,43,0,4,Un pez,43,0
+44,Que es el Umami?,1,Un libro,44,0,2,Un idioma,44,0,3,Un sabor,44,1,4,Un animal,44,0
+45,Que funcion cumplen las cookies en las paginas web?,1,Protejer nuestros datos cuando navegamos,45,0,2,Guardar informacion para mejorar la experiencia,45,1,3,Impedir el spam,45,0,4,Enseniarle al usuario a navegar correctamente,45,0
+46,A que le tiene miedo una persona que sufre de aclufobia?,1,A las alturas,46,0,2,A los espacios cerrados,46,0,3,A la oscuridad,46,1,4,A la lluvia,46,0
+47,Que sentido se desarrolla primero?,1,Odio,47,0,2,Olfato,47,1,3,Tacto,47,0,4,Vista,47,0
+48,Quien escribio Harry Potter?,1,J.K Rowling,48,1,2,Mary Shelley,48,0,3,Virginia Woolf,48,0,4,Agatha Christie,48,0
+49,Quien es el fundador de Amazon?,1,Bernand Arnault,49,0,2,Warren Buffet,49,0,3,Andy Jassy,49,0,4,Jeff Bezos,49,1
+50,Cual es el deporte mas practicado en India?,1,Futbol,50,0,2,Basket,50,0,3,Criquet,50,1,4,Voley,50,0
+51,Cuanto dura un round de boxeo masculino?,1,3 minutos,51,1,2,5 minutos,51,0,3,7 minutos,51,0,4,10 minutos,51,0
+52,Que linea de subte se encuentra a mayor profundidad?,1,Linea C,52,0,2,Linea D,52,0,3,Linea E,52,0,4,Linea H,52,1
+53,Que rio pasa por Roma?,1,Sena,53,0,2,Tiber,53,1,3,Tamesis,53,0,4,Volga,53,0
+54,Cuantas aristas tiene un cubo?,1,8,54,0,2,12,54,1,3,16,54,0,4,24,54,0
+55,Cual es la parte mas externa del ojo humano?,1,El iris,55,0,2,La pupila,55,0,3,La retina,55,0,4,La cornea,55,1
+56,Cuantos cuartos de hora hay en un dia?,1,48,56,1,2,82,56,0,3,96,56,0,4,120,56,0
+57,Cual era el idioma del Imperio Romano?,1,El hebreo,57,0,2,El latin,57,1,3,El italiano,57,0,4,El romano,57,0
+58,Cuanto es aproximadamente el radio de la Tierra?,1,3671 Km,58,0,2,6371 Km,58,1,3,4890 Km,58,0,4,27563 Km,58,0
+59,Que nombre tiene la hierba que la vaca mastica por segunda vez?,1,Bolo alimenticio,59,1,2,Bolo herbal,59,0,3,Paja,59,0,4,Heno,59,0
+60,Cuantas arterias salen del corazon?,1,Una,60,0,2,Dos,60,1,3,Tres,60,0,4,Cuatro,60,0

@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1697741453 source:c:\users\usuario\desktop\unla\trabajo practico final\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	<math.h>
+	"Jugador.h"
+	"Juego.h"
+	"puntos.h"
+
+1697738636 c:\users\usuario\desktop\unla\trabajo practico final\jugador.h
+	"pregunta.h"
+	"puntos.h"
+
+1697738635 c:\users\usuario\desktop\unla\trabajo practico final\pregunta.h
+	"respuesta.h"
+
+1697738635 c:\users\usuario\desktop\unla\trabajo practico final\respuesta.h
+
+1697738635 c:\users\usuario\desktop\unla\trabajo practico final\puntos.h
+
+1697739386 c:\users\usuario\desktop\unla\trabajo practico final\juego.h
+	"Jugador.h"
+
+1697739386 source:c:\users\usuario\desktop\unla\trabajo practico final\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	"Jugador.h"
+	"Juego.h"
+
+1697739955 source:c:\users\usuario\desktop\unla\trabajo practico final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	"Jugador.h"
+	"Juego.h"
+	"pregunta.h"
+	"respuesta.h"
+	"puntos.h"
+
+1697738635 source:c:\users\usuario\desktop\unla\trabajo practico final\pregunta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	"pregunta.h"
+	"respuesta.h"
+
+1697738635 source:c:\users\usuario\desktop\unla\trabajo practico final\puntos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<unistd.h>
+	<conio.h>
+	"Jugador.h"
+	"puntos.h"
+
+1697738635 source:c:\users\usuario\desktop\unla\trabajo practico final\respuesta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pregunta.h"
+	"respuesta.h"
+
